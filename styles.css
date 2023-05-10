@@ -1,0 +1,40 @@
+body {
+    background-color: #E1EEDD;
+}
+h1{
+    color: #183A1D;
+
+}
+h3{
+    color: #183A1D;
+
+}
+img{
+    width: 400px;
+    border-radius: 1%;
+}
+.shelby{
+    background-color: #E1EEDD;
+}
+.gun:hover{
+    background-color: gold;
+    width: 5%;
+}
+#heading{
+    color: springgreen;
+}
+
+
+
+hr{
+   
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+ 
+         
+    
+    
+}
